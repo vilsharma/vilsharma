@@ -1,16 +1,40 @@
-## Hi there 👋
+# 👋 Hi there, I'm Vishal Sharma
 
-<!--
-**vilsharma/vilsharma** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 B.Tech in Computer Science (Batch 2021)  
+🌍 Based in Uttar Pradesh, India  
+💻 Passionate Web Developer | Aspiring AI Enthusiast
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Technologies I Know
+
+- 💻 **Frontend**: HTML, CSS, JavaScript, React.js  
+- 🛠️ **Backend**: Node.js, Express.js  
+- 🗄️ **Database**: MongoDB  
+
+---
+
+## 📚 Currently Learning
+
+- 🧠 TypeScript  
+- ⚙️ Next.js  
+- 🐳 Docker  
+
+---
+
+## 💡 Interests
+
+- Web Development (Full Stack)  
+- Exploring AI and Machine Learning basics  
+
+---
+
+## 📫 Let's Connect
+
+- 💼 [LinkedIn](https://www.linkedin.com/in/vilsharma/)  
+- 📧 Email: vssharma9458@gmail.com  
+
+---
+
+> “Consistency is the key to mastery.”
+
