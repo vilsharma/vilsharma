@@ -1,6 +1,6 @@
 # 👋 Hi there, I'm Vishal Sharma 
 
-🎓 B.Tech in Computer Science (Batch 2021)  
+🎓 B.Tech in Computer Science (Batch 2021-25)  
 🌍 Based in Uttar Pradesh, India  
 💻 Passionate Web Developer | Aspiring AI Enthusiast
 
